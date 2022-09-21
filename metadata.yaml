@@ -1,0 +1,35 @@
+_repo: The-penultimate-trump_68842
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ettinger, R. C. W. (Robert C. W.)
+    aliases:
+    - Ettinger, Robert C. W.
+    - Ettinger, Robert Chester Wilson
+    birthdate: 1918
+    deathdate: 2011
+    gutenberg_agent_id: '54972'
+    url: http://www.gutenberg.org/2009/agents/54972
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Ettinger
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68842'
+language: en
+pgterms:marc905: 20220515100631ettinger
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Better Publications, Inc.,1948.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Cryonics -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The penultimate trump
+url: http://www.gutenberg.org/ebooks/68842
